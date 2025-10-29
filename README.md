@@ -84,3 +84,6 @@ src/
 - Add Firebase Auth logic
 - Build REST client, Variables, History routes
 - Replace `.gitkeep` with real code
+
+
+Deploy: [link]( https://magenta-conkies-fea486.netlify.app/)
